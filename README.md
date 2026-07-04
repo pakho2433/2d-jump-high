@@ -1,6 +1,6 @@
 # 2D Jump High
 
-A mobile-friendly React canvas platform game. Players climb through a fantasy sky tower, hit question blocks, answer *Turning Red* quiz questions, collect power-ups, and try to reach the book castle.
+A mobile-friendly React canvas platform game. Players climb through a fantasy sky tower, jump across cloud platforms, hit question blocks, answer *Turning Red* quiz questions, and try to reach the book castle.
 
 ## Run locally
 
