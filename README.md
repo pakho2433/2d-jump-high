@@ -24,4 +24,6 @@ npm run build
 npm start
 ```
 
+GitHub Actions runs the TypeScript check and production build on every push and pull request.
+
 The `/api/send-result` endpoint currently records submissions in the server log only. The result screen also provides a `mailto:` button so a player can manually send the score.
