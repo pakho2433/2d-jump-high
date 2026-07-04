@@ -34,12 +34,12 @@ export default function Home({ onStart }: HomeProps) {
         <h2 className="mb-8 text-lg text-purple-200">《熊抱青春記》挑戰</h2>
 
         <p className="mb-6 text-left text-sm text-gray-300">
-          控制小男孩跳上星星回答問題，爬得越高，距離天空書城就越近！
+          控制小男孩向上跳躍，撞擊或踏上正確答案方塊，逐層前往天空書城！
           <br /><br />
           <b>操作方式：</b><br />
-          • 方向鍵 ⬅️ ➡️ 控制左右移動<br />
-          • 空格鍵 ␣ 跳躍<br />
-          • 滑鼠或觸控點擊驚喜道具（會變大、長翅膀或變身小貓！）
+          • 電腦：方向鍵 ⬅️ ➡️ 或 A／D 移動<br />
+          • 空格鍵、⬆️ 或 W 跳躍及二段跳<br />
+          • 手機／iPad：使用畫面上的左右及 JUMP 按鈕
         </p>
 
         <form onSubmit={handleSubmit} className="space-y-4">
